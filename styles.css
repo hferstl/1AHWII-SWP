@@ -1,0 +1,8 @@
+h1 { /*alle h1 elemente sytlen*/
+    border-bottom: 1px dashed pink;
+    /*kleinbuchstaben als großbuchstaben */
+    font-variant: small-caps;
+    /* Schriftfarbe ändenn*/
+color: steelblue
+}
+
